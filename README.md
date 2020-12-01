@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skillhh" />
+<a href="https://github.com/Skillhh/Skillhh/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillhh&hide=c" />
 </a>
