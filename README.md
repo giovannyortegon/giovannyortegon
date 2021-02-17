@@ -1,5 +1,14 @@
 ###  :+1: Hello
 
+I am a full-stack developer enthusiastic and passionate in lenguage of low level and Networking.
+
+ :computer: Currently I develop project in:
+
+-  :rocket: Assembly code in x86 and x86_64 for Linux/Windows and C.
+-  :package: Networking in Python and C.
+-  :unlock: Exploits shellcoder and fuzzing in C and Python
+
+### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -10,16 +19,6 @@
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-
-
-I am a full-stack developer enthusiastic and passionate in lenguage of low level and Networking.
-
- :computer: Currently I develop project in:
-
--  :rocket: Assembly code in x86 and x86_64 for Linux/Windows and C.
--  :package: Networking in Python and C.
--  :unlock: Exploits shellcoder and fuzzing in C and Python
 
 ### Reach me at
 [![Linkedin: GiovannyOrtegon](https://img.shields.io/badge/-GiovannyOrtegon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanny-o-3a6096143/)](https://www.linkedin.com/in/giovanny-o-3a6096143/)
