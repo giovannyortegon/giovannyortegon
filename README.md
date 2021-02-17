@@ -1,3 +1,16 @@
+###  :+1: Hello
+
+I am a full-stack developer enthusiastic and passionate in lenguage of low level and Networking.
+
+ :computer: Currently I develop project in:
+
+-  :rocket: Assembly code in x86 and x86_64 for Linux/Windows and C.
+-  :package: Networking in Python and C.
+-  :unlock: Exploits shellcoder and fuzzing in C and Python
+
+### Reach me at
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/giovanny-o-3a6096143/)
+
 # `$ GitHub Stats`
 
 <a href="https://github.com/giovannyortegon/giovannyortegon/">
