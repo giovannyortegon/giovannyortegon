@@ -1,5 +1,18 @@
 ###  :+1: Hello
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+
 I am a full-stack developer enthusiastic and passionate in lenguage of low level and Networking.
 
  :computer: Currently I develop project in:
@@ -9,7 +22,9 @@ I am a full-stack developer enthusiastic and passionate in lenguage of low level
 -  :unlock: Exploits shellcoder and fuzzing in C and Python
 
 ### Reach me at
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/giovanny-o-3a6096143/)
+[![Linkedin: GiovannyOrtegon](https://img.shields.io/badge/-GiovannyOrtegon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanny-o-3a6096143/)](https://www.linkedin.com/in/giovanny-o-3a6096143/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/giovannyortegon?label=follow&style=social)](https://github.com/giovannyortegon)
+
 
 # `$ GitHub Stats`
 
