@@ -1,6 +1,6 @@
 ###  :+1: Hello
 
-I am a full-stack developer enthusiastic and passionate in lenguage of low level and Networking.
+I am a full-stack developer enthusiastic and passionate in lenguages of low level and Networking Programming.
 
  :computer: Currently I develop project in:
 
