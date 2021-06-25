@@ -4,8 +4,8 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
  :computer: Currently I develop project in:
 
--  :rocket: Assembly code in x86 and x86_64 for Linux/Windows and C.
--  :package: Networking in Python and C.
+-  :rocket: Assembly code in x86 and x86_64 for Linux/Windows, ARM x32 and x64, C and C++.
+-  :package: Networking in Python, C.
 -  :unlock: Exploits shellcoder and fuzzing in C and Python
 
 ### Languages
