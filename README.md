@@ -26,39 +26,3 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
-
-
-    <table class="default">
-        <tr>
-          <td >
-           <img class="repo" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />        
-           </td>
-           <td>
-            <img class="repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
-           </td>
-        </tr>
-        <tr>
-          <td>
-           <a href="https://github.com/giovannyortegon/Assembly">
-           <img class="repo" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
-           </a>
-          </td>
-          <td>
-           <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-           <img class="repo" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
-           </a>
-          </td>
-         </tr>
-         <tr>
-          <td>
-           <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-           <img class="repo" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
-           </a>
-          </td>
-          <td>
-           <a href="https://github.com/giovannyortegon/PracticalC_programming">
-           <img class="repo" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
-           </a>
-          </td> 
-         </tr>
-        </table>
