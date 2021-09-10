@@ -52,15 +52,15 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
   </td>
  </tr>
  <tr>
-  <ts>
+  <td>
    <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
    <img height=200 width= 300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
    </a>
   </td>
   <td>
-  <a href="https://github.com/giovannyortegon/PracticalC_programming">
-  <img height=200 width= 300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
-  </a>
+   <a href="https://github.com/giovannyortegon/PracticalC_programming">
+   <img height=200 width= 300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
+   </a>
   </td> 
  </tr>
 </table>
