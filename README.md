@@ -32,7 +32,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <img width=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
 </a>
 <a href="https://github.com/giovannyortegon/Assembly">
-<img height=420  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
+<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
 
 <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img height=370  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
+<img width=370 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
