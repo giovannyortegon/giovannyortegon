@@ -29,10 +29,10 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <a href="https://github.com/giovannyortegon">
 <img width=550 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" /></a>
 <a href="https://github.com/giovannyortegon">
-<img width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
+<img width=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
 </a>
 <a href="https://github.com/giovannyortegon/Assembly">
-<img height=200  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
+<img height=420  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
 
 <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img height=200  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
+<img height=370  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
