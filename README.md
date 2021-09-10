@@ -26,3 +26,42 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
+
+<table style="border:0px; padding:0px">
+<tr>
+  <td >
+   <a href="https://github.com/giovannyortegon/giovannyortegon/">
+   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
+   </a>
+   </td>
+   <td>
+    <a href="https://github.com/giovannyortegon/giovannyortegon/">
+    <img  width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="https://github.com/giovannyortegon/Assembly">
+   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
+   </a>
+  </td>
+  <td>
+   <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
+   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
+   <img  width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
+   </a>
+  </td>
+  <td>
+   <a href="https://github.com/giovannyortegon/PracticalC_programming">
+   <img  width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
+   </a>
+  </td> 
+ </tr>
+</table>
