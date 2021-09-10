@@ -29,17 +29,17 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <a href="https://github.com/giovannyortegon/Assembly">
   <img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=25&count_private=true&theme=nord&hide_border=true" alt="GiovannyOrtegon's Github Stats" /></a>
 <a href="https://github.com/giovannyortegon/Assembly">
-  <img width=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css&theme=nord" />
+  <img width=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css&theme=nord&hide_border=true" />
 </a></br>
 <a href="https://github.com/giovannyortegon/Assembly">
-  <img width=335 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=Assembly" />
+  <img width=335 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&hide_border=true&repo=Assembly" />
 </a><a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-  <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=Shellcode-x86_x64" />
+  <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&hide_border=true&repo=Shellcode-x86_x64" />
 </a></br>
 <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=PracticalBinaryAnalysis" />
+  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&hide_border=true&repo=PracticalBinaryAnalysis" />
 </a>
 <a href="https://github.com/giovannyortegon/PracticalC_programming">
-  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=PracticalC_programming" />
+  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&hide_border=true&repo=PracticalC_programming" />
 </a>
 
