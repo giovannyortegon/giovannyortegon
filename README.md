@@ -26,8 +26,10 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
-
-<table style="border:0px; padding:0px">
+<style type="text/css">
+ table, td {border:0px; padding:0px}
+</style>
+<table >
 <tr>
   <td >
    <a href="https://github.com/giovannyortegon/giovannyortegon/">
