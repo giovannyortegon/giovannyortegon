@@ -35,7 +35,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
    </td>
    <td>
     <a href="https://github.com/giovannyortegon/giovannyortegon/">
-    <img height=80% width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
+    <img height=50% width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
     </a>
   </td>
 </tr>
@@ -54,7 +54,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
  <tr>
   <td>
    <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-   <img height=80% width=100% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
+   <img height=60% width=100% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
    </a>
   </td>
   <td>
