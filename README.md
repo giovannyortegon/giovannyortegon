@@ -26,6 +26,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
+<html>
 <table>
 <tr>
   <td>
@@ -64,3 +65,4 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
   </td> 
  </tr>
 </table>
+</html>
