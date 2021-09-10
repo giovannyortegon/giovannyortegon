@@ -26,12 +26,10 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
-<style type="text/css">
- table, td {border:0px; padding:0px}
-</style>
+
 <table >
 <tr>
-  <td >
+  <td style="border:0px; padding:0px;" >
    <a href="https://github.com/giovannyortegon/giovannyortegon/">
    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
    </a>
