@@ -28,10 +28,10 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 # `$ GitHub Stats`
 
 <a href="https://github.com/giovannyortegon/giovannyortegon/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
 </a>
 <a href="https://github.com/giovannyortegon/giovannyortegon/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" />
 </a>
 <a href="https://github.com/giovannyortegon/Assembly">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
