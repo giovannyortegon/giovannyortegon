@@ -1,0 +1,17 @@
+.default{
+   
+    padding: 0px;
+}
+.repo{
+    height: 150;
+    width: 495;
+}
+a.repo{
+    height: 150;
+    width: 495;
+    
+
+}
+td{
+    box-align: left;
+}
