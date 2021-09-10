@@ -30,7 +30,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <tr>
   <td>
    <a href="https://github.com/giovannyortegon/giovannyortegon/">
-   <img  height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
+   <img height=300 width=250 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
    </a>
    </td>
    <td>
@@ -42,24 +42,24 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <tr>
   <td>
    <a href="https://github.com/giovannyortegon/Assembly">
-   <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
+   <img height=300 width=2500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
    </a>
   </td>
   <td>
    <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-   <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
+   <img height=300 width=250 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
    </a>
   </td>
  </tr>
  <tr>
   <td>
    <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-   <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
+   <img height=300 width=250 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" />
    </a>
   </td>
   <td>
    <a href="https://github.com/giovannyortegon/PracticalC_programming">
-   <img height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
+   <img height=300 width=250 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" />
    </a>
   </td> 
  </tr>
