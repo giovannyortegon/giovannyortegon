@@ -35,4 +35,4 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" />
 
 <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img height=128 width=410 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
+<img height=128 width=420 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" />
