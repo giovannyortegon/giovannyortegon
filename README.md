@@ -31,11 +31,11 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <a href="https://github.com/giovannyortegon">
 <img width=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" /></a>
 <a href="https://github.com/giovannyortegon/Assembly">
-<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" /></a>
+<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" /></a>
 <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-<img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" /></a>
+<img  width=298 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" /></a>
 <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" /></a>
+<img width=314 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" /></a>  
 <a href="https://github.com/giovannyortegon/PracticalC_programming">
-<img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" /></a>
+<img  width=335 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" /></a>
 
