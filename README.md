@@ -27,7 +27,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 # `$ GitHub Stats`
 <a href="https://github.com/giovannyortegon/Assembly">
-  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=25&count_private=true&theme=nord" alt="GiovannyOrtegon's Github Stats" /></a>
+  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=25&count_private=true&theme=nord&hide_border=true" alt="GiovannyOrtegon's Github Stats" /></a>
 <a href="https://github.com/giovannyortegon/Assembly">
   <img width=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css&theme=nord" />
 </a></br>
