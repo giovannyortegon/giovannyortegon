@@ -26,16 +26,17 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
-<a href="https://github.com/giovannyortegon">
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" /></a>
-<a href="https://github.com/giovannyortegon">
-<img width=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" /></a>
+
 <a href="https://github.com/giovannyortegon/Assembly">
-<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" /></a>
+<img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" /></a>
+<a href="https://github.com/giovannyortegon/Assembly">
+<img width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" /></a></br>
+<a href="https://github.com/giovannyortegon/Assembly">
+<img width=360 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" /></a>
 <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-<img  width=298 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" /></a>
+<img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" /></a></br>
 <a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img width=314 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" /></a>  
+<img width=322 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" /></a>  
 <a href="https://github.com/giovannyortegon/PracticalC_programming">
-<img  width=335 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" /></a>
+<img  width=340 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" /></a>
 
