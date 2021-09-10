@@ -26,17 +26,20 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
-
 <a href="https://github.com/giovannyortegon/Assembly">
-<img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" /></a>
+  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=25&count_private=true&theme=nord" alt="GiovannyOrtegon's Github Stats" /></a>
 <a href="https://github.com/giovannyortegon/Assembly">
-<img width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css" /></a></br>
+  <img width=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyortegon&hide=html,css&theme=nord" />
+</a></br>
 <a href="https://github.com/giovannyortegon/Assembly">
-<img width=360 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Assembly" /></a>
+  <img width=335 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=Assembly" />
+</a><a href="https://github.com/giovannyortegon/shellcode-x86_x64">
+  <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=Shellcode-x86_x64" />
+</a></br>
 <a href="https://github.com/giovannyortegon/PracticalBinaryAnalysis">
-<img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalBinaryAnalysis" /></a></br>
-<a href="https://github.com/giovannyortegon/shellcode-x86_x64">
-<img width=322 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=Shellcode-x86_x64" /></a>  
+  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=PracticalBinaryAnalysis" />
+</a>
 <a href="https://github.com/giovannyortegon/PracticalC_programming">
-<img  width=340 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&repo=PracticalC_programming" /></a>
+  <img  width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannyortegon&theme=nord&repo=PracticalC_programming" />
+</a>
 
