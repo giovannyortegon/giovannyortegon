@@ -1,10 +1,3 @@
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
- 
-
 ###  :+1: Hello
 
 I am a full-stack developer enthusiastic and passionate in lenguages of low level and Networking Programming.
@@ -33,6 +26,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 
 
 # `$ GitHub Stats`
+
 
     <table class="default">
         <tr>
