@@ -30,7 +30,7 @@ I am a full-stack developer enthusiastic and passionate in lenguages of low leve
 <tr>
   <td>
    <a href="https://github.com/giovannyortegon/giovannyortegon/">
-   <img  height=100% width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
+   <img  height=200 width=150 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannyortegon&show_icons=true&line_height=27&count_private=true" alt="GiovannyOrtegon's Github Stats" />
    </a>
    </td>
    <td>
